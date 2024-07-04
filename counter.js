@@ -1,1 +1,1 @@
-let value = 0
+let value = 10
